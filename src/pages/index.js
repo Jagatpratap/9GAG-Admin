@@ -3,7 +3,6 @@ import Audience from '@/components/Audience'
 import Followers from '@/components/Followers'
 import Navbar from '@/components/Navbar'
 import 'react-circular-progressbar/dist/styles.css';
-import styles from '@/styles/Home.module.css'
 import Score from '@/components/Score';
 import Posts from '@/components/Posts';
 import FollowersChart from '@/components/Chart/FollowersChart';
