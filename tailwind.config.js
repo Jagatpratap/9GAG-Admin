@@ -21,7 +21,6 @@ module.exports = {
       secondary4:"#738294",
       secondary5:"#171615",
       secondary6:"#F2F6FA",
-
     }
   }
 
